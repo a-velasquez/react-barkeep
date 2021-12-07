@@ -1,5 +1,7 @@
 # Barkeep
 
+<img width="1917" alt="Screen Shot 2021-12-06 at 2 53 54 PM" src="https://user-images.githubusercontent.com/49491196/144936031-7886f633-76e8-4981-84f0-143d8a8ca575.png">
+
 ### About
 Barkeep provides a searchable database of over 600 cocktails utilizing the The CocktailDB API. A User can search for a cocktail by name and see that individual cocktails' ingredients and recipe. 
 
